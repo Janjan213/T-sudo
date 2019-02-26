@@ -1,5 +1,5 @@
 #!/bin/bash
-#cat>t-sudo.sh
+#cat>termux-sudo.sh
 
 apt update
 apt upgrade
