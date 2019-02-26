@@ -1,0 +1,2 @@
+# T-sudo
+Termux SuperUser
