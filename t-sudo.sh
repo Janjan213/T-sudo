@@ -1,5 +1,5 @@
 #!/bin/bash
-cat>t-sudo.sh
+#cat>t-sudo.sh
 
 apt update
 apt upgrade
